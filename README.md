@@ -86,35 +86,3 @@ If you found this helpful, ⭐ Star this repo and share with your friends.
 ✅ Practice Sheets with difficulty levels
 
 ✅ Project/HR Q&A PDFs
-
-yaml
-Copy
-Edit
-
----
-
-### 🔧 Ab Kya Karna Hai?
-
-1. GitHub repo kholo  
-2. `Add file → Create new file`  
-3. File name likho: `README.md`  
-4. Upar wala markdown paste karo  
-5. Niche commit message likho:  
-✨ Added clean and professional README.md
-
-yaml
-Copy
-Edit
-6. Click `Commit new file` ✅
-
----
-
-### ⚡ Bonus Features Add Karne Hai? (Batana bro)
-
-- Badges (Stars, Forks, Views)  
-- PDF Download Buttons  
-- Theme Toggle  
-- Table of Contents  
-- Custom Banner with your name (image bana du?)
-
-Just ping me — next level bana denge 🚀
