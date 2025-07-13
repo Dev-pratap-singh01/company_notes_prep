@@ -8,7 +8,6 @@ This repo is your **one-stop solution** to revise and practice all essential con
 
 ## 🧠 Topics Covered
 
-
 📁 DSA Notes/
 ├── Arrays
 ├── Strings
@@ -18,12 +17,10 @@ This repo is your **one-stop solution** to revise and practice all essential con
 ├── Stack & Queue
 ├── Trees, BST, Graph
 
-
 📁 CS Core Subjects/
 ├── Operating System (OS)
 ├── DBMS
 ├── Computer Networks (CN)
-
 
 📁 Miscellaneous/
 ├── HR Questions
@@ -31,7 +28,9 @@ This repo is your **one-stop solution** to revise and practice all essential con
 ├── Coding Sheets (Love Babbar, Striver, etc.)
 ├── MCQ Practice
 
-
+yaml
+Copy
+Edit
 
 ---
 
@@ -51,7 +50,11 @@ This repo is your **one-stop solution** to revise and practice all essential con
    ```bash
    git clone https://github.com/Dev-pratap-singh01/company_notes_prep.git
    cd company_notes_prep
+Explore the folders based on topic
 
+Use the notes for learning, revision, or mock interviews.
+
+Keep updating with your own learnings and practice.
 
 🛠 Tech Stack (for reference)
 Although this is a notes repo, it aligns with your overall preparation for:
@@ -68,23 +71,15 @@ Dev Pratap Singh
 🌐 GitHub
 💼 LinkedIn
 
+📢 Contributions
+Feel free to fork and contribute your own notes or improvements!
+If you found this helpful, ⭐ Star this repo and share with your friends.
 
+📌 Coming Soon
+✅ Full Aptitude Sheet PDF
 
+✅ One-liner theory PDF for OS/DBMS
 
----
+✅ Practice Sheets with difficulty levels
 
-### ✅ Kya Fix Kiya Maine:
-
-| Problem | Fix |
-|--------|-----|
-| `"Copy Edit yaml"` | ❌ Removed unwanted lines |
-| Instructions inside code block | ✅ Moved them out of code blocks |
-| No code block closure | ✅ Proper triple backticks (` ``` `) |
-| Paragraphs and Headings mixed | ✅ Cleaned structure |
-
----
-
-Paste it and your README will look professional and clean on GitHub 🚀  
-Agar chaho toh badges ya banner bhi bana ke de sakta hoon. Bolo bro 🔥
-
-
+✅ Project/HR Q&A PDFs
